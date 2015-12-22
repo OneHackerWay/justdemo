@@ -4,5 +4,6 @@ void function add(){
 
 
 void function remove(){
-
+  echo "remove";
+echo "done!"
 }
