@@ -12,3 +12,7 @@ echo "done!"
 void function sayhi(){
 echo "hi all !"
 }
+
+void function death(){
+
+}
