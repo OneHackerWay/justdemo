@@ -13,12 +13,6 @@ void function sayhi(){
 echo "hi all !"
 }
 
-void function death(){
-
-
-echo "this is a fake death of file :P"
-}
-
 void func onemore(){
 echo "this is one more"
 }
