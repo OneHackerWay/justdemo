@@ -1,1 +1,8 @@
-This is good as long as it supports UI else i need to rethink
+void function add(){
+
+}
+
+
+void function remove(){
+
+}
