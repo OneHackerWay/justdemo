@@ -16,3 +16,6 @@ echo "hi all !"
 void function death(){
 
 }
+
+void func onemore(){
+}
